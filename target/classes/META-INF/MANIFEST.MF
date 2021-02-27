@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: E-book Spring Boot
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: ronaldo
+Implementation-Vendor-Id: si_ueg_posse
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://cafe.algaworks.com/livro-spring-boot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Cortesia_AlgaWorks
+
